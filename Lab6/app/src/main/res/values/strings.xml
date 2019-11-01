@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="first_task_a">First Task (a)</string>
+    <string name="second_task_b">Second Task (b)</string>
+    <string name="input_customers">Input Customers</string>
+    <string name="enter_id">Enter id</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_middlename">Enter middlename</string>
+    <string name="enter_address">Enter address</string>
+    <string name="enter_credit_card_number">Enter credit card number</string>
+    <string name="enter_bank_account_number">Enter bank account number</string>
+    <string name="enter_size_of_array">Enter size of array</string>
+    <string name="enter_begin_of_range">Enter begin of range</string>
+    <string name="enter_end_of_range">Enter end of range</string>
+    <string name="id">Id:</string>
+    <string name="surname">Surname:</string>
+    <string name="name">Name:</string>
+    <string name="middlename">Middlename:</string>
+    <string name="address">Address:</string>
+    <string name="credit_card_number">Credit card number:</string>
+    <string name="bank_account_number">Bank account number:</string>
+</resources>
