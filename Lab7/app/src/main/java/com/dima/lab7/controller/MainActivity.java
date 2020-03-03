@@ -43,8 +43,8 @@ public class MainActivity extends AppCompatActivity {
     };
 
 
-    TextView mCurrentSizeTextView;
-    TextView mNearestBankTextView;
+    private TextView mCurrentSizeTextView;
+    private TextView mNearestBankTextView;
 
     private LocationManager mLocationManager;
     private LocationListener mLocationListener;
